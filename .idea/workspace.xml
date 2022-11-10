@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="784b172e-6d86-4dc8-9718-5674df001b22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/4k.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_1-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_2-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_3-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_4-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_5-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_mag_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/III_mag_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_1-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_2-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_3-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_4-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_mag_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IIT_mag_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKB_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKB_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKB_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKB_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKTST_1-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKTST_2-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKTST_3-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IKTST_5-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_1-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_2-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_3-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_4-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_5-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_-mag-2-kurs-3-sem_NOVOE.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_1-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_2-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_3-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_4-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_Stromynka_mag_1_kurs_1_sem_NOVOE.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_mag_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IPTIP_mag_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_1-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_2-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_3-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_4-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_5-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_mag_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/IRI_mag_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_1-kurs_bak_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_1-kurs_mag_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_2-kurs_bak_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_2-kurs_mag_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_3-kurs_bak_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_4-kurs_bak_22_23_osen.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITKHT_4kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_1-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_2-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_3-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_3kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_4-kurs_22_23_osen_07.10.2022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_Stromynka_1-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_Stromynka_2-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_Stromynka_3-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_Stromynka_4-kurs_22_23_osen.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_mag_1_kurs_osen_2022_2023_Stromynka_11.10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_mag_1kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/ITU_mag_2kurs_osen_2022_2023.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/KBiSP_1_kurs_1sem_magistry.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/KBiSP_2_kurs_3sem_magistry.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule/Raspisanie_2_kurs_magistrov.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HLyfqx8vxCcd24WW7QamlJTydH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784b172e-6d86-4dc8-9718-5674df001b22" name="Changes" comment="" />
+      <created>1668078766689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668078766689</updated>
+      <workItem from="1668078768415" duration="6113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
